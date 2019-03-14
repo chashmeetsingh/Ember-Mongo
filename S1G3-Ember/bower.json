@@ -1,0 +1,6 @@
+{
+  "name": "s1-g3-blog",
+  "dependencies": {
+    "materialize": "0.97.6"
+  }
+}
